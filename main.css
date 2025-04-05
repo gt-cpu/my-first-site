@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+    color: #333;
+    width: 600px;
+    ;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 15px;
+    text-decoration: none;
+    color: #333
+}
+
+nav :hover {
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+u1 {
+    list-style-type: square;
+}
+
+p {
+    line-height: 1.5;
+}
